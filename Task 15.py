@@ -1,0 +1,2 @@
+Idol = input("")
+userinput = Idol
